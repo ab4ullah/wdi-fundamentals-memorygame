@@ -1,6 +1,3 @@
-//console.log("Up and running!");
-
-//var cards = ["queen", "queen", "king", "king"  ];
 
 
 var cards = [
